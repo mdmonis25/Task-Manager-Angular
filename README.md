@@ -1,4 +1,8 @@
-# AngularCrash
+
+# Task Manager
+
+![Screenshot (18)](https://github.com/mdmonis25/Task-Manager-Angular/assets/63342855/4b54076e-67db-4d9a-bfd1-fc3331b18616)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
 
